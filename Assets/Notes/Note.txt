@@ -1,0 +1,45 @@
+Git branches
+Master
+> Development
+	> Feature-Audio
+	> Feature-Visual
+	> Feature-ManualLevel
+	> Feature-Movement
+	> Feature-LevelGenerator
+
+Asset List
+Audio Clips (Folder):
+BGM = start scene (main menu) > Goblin_Tinker_Soldier_Spy loop
+BGM = game intro > Golly Gee 3s
+BGM = normal-ghost state > DarxieLand loop
+BGM = scared-ghost state > Ultra Polka 38s - 50s
+BGM = ghost-dead state > Ultra Polka 51s - 63s
+BGM = +loss/death > Netherworld Shanty loop
+BGM = +win > Meatball Parade loop
+
+SFX = Pac move
+SFX = Pac eat
+SFX = Pac hit wall
+SFX = Pac death
+SFX = +Pac eat ghost
+SFX = +UI click
+SFX = 
+
+
+Sprites (Folder):
+Pac left
+Pac right
+Pac up
+Pac down
+Pac dead
+Ghost left
+Ghost right
+Ghost up
+Ghost down
+Ghost scared ver.
+Ghost dead
+Normal pellet
+Power pellet
+Bonus score cherry
+Pac life UI
+Wall segments
